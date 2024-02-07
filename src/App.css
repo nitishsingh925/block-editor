@@ -21,10 +21,12 @@ body {
 
 .textArea {
   font-size: 14px;
+  margin: 20px;
 }
 
 .uploadButton {
   font-size: 14px;
+  margin: 20px;
 }
 button{
   margin: 5px;
