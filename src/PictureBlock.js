@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Upload, Button, message, Modal } from "antd";
+import { Upload, Modal } from "antd";
 import { PlusOutlined } from "@ant-design/icons";
 
 const PictureBlock = () => {
